@@ -1,0 +1,3 @@
+﻿  Source.cpp
+g:\visual\visual studio 2017\c-algorithm_basic\algorithm_basic_kteam\lesson_02\source.cpp(35): warning C4715: 'taxi::GetFee': not all control paths return a value
+  Lesson_02.vcxproj -> G:\visual\Visual Studio 2017\C-Algorithm_Basic\Algorithm_Basic_Kteam\Debug\Lesson_02.exe
